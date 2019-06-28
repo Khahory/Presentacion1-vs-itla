@@ -1,0 +1,7 @@
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion1\Presentacion1\bin\Debug\Presentacion1.exe.config
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion1\Presentacion1\bin\Debug\Presentacion1.exe
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion1\Presentacion1\bin\Debug\Presentacion1.pdb
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion1\Presentacion1\obj\Debug\Presentacion1.csprojAssemblyReference.cache
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion1\Presentacion1\obj\Debug\Presentacion1.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion1\Presentacion1\obj\Debug\Presentacion1.exe
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion1\Presentacion1\obj\Debug\Presentacion1.pdb
